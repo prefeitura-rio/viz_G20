@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/viz_G20/static/css/main.c09391a7.css",
-    "main.js": "/viz_G20/static/js/main.8672d737.js",
+    "main.css": "/viz_G20/static/css/main.c0850c10.css",
+    "main.js": "/viz_G20/static/js/main.e9f34d33.js",
     "static/js/453.91217400.chunk.js": "/viz_G20/static/js/453.91217400.chunk.js",
     "static/media/map_rio.png": "/viz_G20/static/media/map_rio.ada9d12d29e1c2ea771c.png",
     "static/media/mapa1.png": "/viz_G20/static/media/mapa1.dc1012aee5148a62115f.png",
     "static/media/mapa2.png": "/viz_G20/static/media/mapa2.dc1012aee5148a62115f.png",
     "index.html": "/viz_G20/index.html",
-    "main.c09391a7.css.map": "/viz_G20/static/css/main.c09391a7.css.map",
-    "main.8672d737.js.map": "/viz_G20/static/js/main.8672d737.js.map",
+    "main.c0850c10.css.map": "/viz_G20/static/css/main.c0850c10.css.map",
+    "main.e9f34d33.js.map": "/viz_G20/static/js/main.e9f34d33.js.map",
     "453.91217400.chunk.js.map": "/viz_G20/static/js/453.91217400.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c09391a7.css",
-    "static/js/main.8672d737.js"
+    "static/css/main.c0850c10.css",
+    "static/js/main.e9f34d33.js"
   ]
 }
