@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/viz_G20/static/css/main.c0850c10.css",
-    "main.js": "/viz_G20/static/js/main.e9f34d33.js",
+    "main.css": "/viz_G20/static/css/main.9040c321.css",
+    "main.js": "/viz_G20/static/js/main.cc5de77c.js",
     "static/js/453.91217400.chunk.js": "/viz_G20/static/js/453.91217400.chunk.js",
-    "static/media/map_rio.png": "/viz_G20/static/media/map_rio.ada9d12d29e1c2ea771c.png",
-    "static/media/mapa1.png": "/viz_G20/static/media/mapa1.dc1012aee5148a62115f.png",
-    "static/media/mapa2.png": "/viz_G20/static/media/mapa2.dc1012aee5148a62115f.png",
     "index.html": "/viz_G20/index.html",
-    "main.c0850c10.css.map": "/viz_G20/static/css/main.c0850c10.css.map",
-    "main.e9f34d33.js.map": "/viz_G20/static/js/main.e9f34d33.js.map",
+    "static/media/x.svg": "/viz_G20/static/media/x.032067b872086fd27452efceaaa4fa4f.svg",
+    "static/media/check.svg": "/viz_G20/static/media/check.4e26b946752f1870af90f7b821e2a8d3.svg",
+    "main.9040c321.css.map": "/viz_G20/static/css/main.9040c321.css.map",
+    "main.cc5de77c.js.map": "/viz_G20/static/js/main.cc5de77c.js.map",
     "453.91217400.chunk.js.map": "/viz_G20/static/js/453.91217400.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0850c10.css",
-    "static/js/main.e9f34d33.js"
+    "static/css/main.9040c321.css",
+    "static/js/main.cc5de77c.js"
   ]
 }
